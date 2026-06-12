@@ -7,25 +7,22 @@
       "name": "Mangas.in",
       "lang": "es",
       "version": "1.0.0",
+      "versionCode": 1000000,
       "nsfw": true,
       "url": "https://raw.githubusercontent.com/Gekkoya/extensions/main/wasm/es/mangasin.wasm",
       "icon": "https://raw.githubusercontent.com/Gekkoya/extensions/main/icon/es.mangasin.png",
-      "sha256": "e0986fa0d0bc2fdd9dceeda481dd4fd3e1183c05527036cb56bd1dd694d3a59f",
-      "size": 220739,
-      "baseUrl": "https://m440.in"
-    },
-    {
-      "id": "es.mangasin",
-      "sourceId": 6598819686936201863,
-      "name": "Mangas.in",
-      "lang": "es",
-      "version": "1.0.0",
-      "nsfw": true,
-      "url": "https://raw.githubusercontent.com/Gekkoya/extensions/main/wasm/es/mangasin.wasm",
-      "icon": "https://raw.githubusercontent.com/Gekkoya/extensions/main/icon/es.mangasin.png",
-      "sha256": "e0986fa0d0bc2fdd9dceeda481dd4fd3e1183c05527036cb56bd1dd694d3a59f",
-      "size": 220739,
-      "baseUrl": "https://m440.in"
+      "sha256": "13a7dc1e974c658e2693c8f44e8ad68cb7f2c8f6e06700d77c4ca91972e60188",
+      "size": 2458490,
+      "contractVersion": 1,
+      "sourceVersionId": 1,
+      "supportsLatest": true,
+      "permissions": [
+        "Network",
+        "Cookies",
+        "WebViewChallenge",
+        "TemporaryStorage",
+        "Logs"
+      ]
     }
   ]
 }
